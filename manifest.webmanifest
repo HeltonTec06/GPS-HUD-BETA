@@ -1,32 +1,13 @@
 {
-  "name": "GTA Game GPS V17",
-  "short_name": "GTA GPS V17",
-  "description": "GPS temático gamer com navegação, voz, veículos e modo noturno automático.",
-  "lang": "pt-BR",
+  "name": "GTA GAME GPS V17",
+  "short_name": "GTA GPS",
   "start_url": "./",
-  "scope": "./",
   "display": "standalone",
-  "orientation": "any",
-  "background_color": "#05070a",
+  "background_color": "#06111b",
   "theme_color": "#06111b",
+  "orientation": "any",
   "icons": [
-    {
-      "src": "icons/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icons/icon-180.png",
-      "sizes": "180x180",
-      "type": "image/png",
-      "purpose": "any"
-    }
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
   ]
 }
